@@ -1,2 +1,2 @@
 #!/bin/bash
-#: Regra Crontab
+# Regra Crontab
